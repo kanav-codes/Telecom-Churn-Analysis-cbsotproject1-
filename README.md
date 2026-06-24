@@ -3,6 +3,10 @@
 ## 📌 Overview
 This project delivers a comprehensive, end-to-end data science solution to predict customer churn in the telecommunications industry. By leveraging machine learning and customer segmentation, the project transforms raw data into actionable business strategies.
 
+## 📂 Dataset
+The dataset used for this project is [(https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)]. 
+A processed copy is available in the `data/` folder of this repository.
+
 ## 🛠 Project Workflow (ATS Optimized)
 The project follows a rigorous end-to-end pipeline:
 * **Data Cleaning**: Handled missing values (e.g., 'Total Charges') and performed robust preprocessing.
