@@ -24,6 +24,13 @@ The project follows a rigorous end-to-end pipeline:
     * **High Risk**: Immediate "Save Team" intervention.
 * **Explainable AI**: Visualized the **Top 10 Drivers of Churn** to provide business-ready transparency.
 
+## 💡 The "Extra Mile": Value-Added Business Integration
+Beyond the standard predictive modeling, I implemented three key analytical enhancements to bridge the gap between Data Science and actual business operations:
+
+1. **Financial Risk Quantification:** I didn't just predict churn; I calculated the **Potential Monthly Revenue Loss**. This allows the business to see the "cost of inaction" and prioritize high-value customers for retention.
+2. **Actionable Retention Framework:** Using the model outputs, I mapped customers into specific segments (Loyal Premium, Budget Loyal, High Risk) and defined a **Custom Retention Strategy Map**. This transforms abstract model probabilities into a concrete "Save Team" action plan.
+3. **Business-Focused Explainability:** I pivoted from "Black Box" modeling to focus on **Top 10 Churn Drivers**. By identifying critical features like *Contract Type* and *Tenure*, I provided stakeholders with clear, understandable reasons why customers are leaving.
+
 ## 📊 Visualizations
 ![Top 10 Churn Drivers](images/drivers.png)
 ![Elbow Method](images/elbow.png)
