@@ -42,4 +42,4 @@ Beyond the standard predictive modeling, I implemented three key analytical enha
 * **Models**: RandomForestClassifier, KMeans
 
 ---
-*Created by [Tera Naam]*
+*Created by Kanav Bansal *
